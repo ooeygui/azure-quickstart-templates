@@ -10,6 +10,7 @@ choco upgrade ros-noetic-desktop_full -y --execution-timeout=0 -i
 
 # Install ROS2
 choco upgrade ros-foxy-desktop -y --execution-timeout=0 -i
+choco upgrade ros-humble-desktop -y --pre --execution-timeout=0 -i
 
 # finally enable RemotePS 
 Enable-PSRemoting -Force -SkipNetworkProfileCheck

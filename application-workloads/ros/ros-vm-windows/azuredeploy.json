@@ -24,7 +24,12 @@
                 "Standard_D2_v3",
                 "Standard_NV6",
                 "Standard_NV12",
-                "Standard_NV24"
+                "Standard_NV24",
+                "Standard_NV4as_v4",
+                "Standard_NV8as_v4",
+                "Standard_NV16as_v4",
+                "Standard_NV32as_v4"	
+
             ],
             "metadata": {
                 "description": "The virtual machine size."
